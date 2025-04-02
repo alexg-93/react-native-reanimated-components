@@ -9,6 +9,15 @@ Welcome to **My Reanimated Project** – a React Native application built with E
 - **Animated Accordion List:** Interactive accordion list with smooth height transitions implemented in [Accordion.tsx](MyReanimatedProject/components/Accordion.tsx).
 - **Cross-Platform:** Runs on iOS, Android, and Web.
 
+## DEMO
+
+https://github.com/user-attachments/assets/de45915d-2127-4a3a-a694-9e4f29e141cf
+
+
+https://github.com/user-attachments/assets/a4569b37-cc4a-4837-8452-2625d5e5b60b
+
+
+
 
 ### Prerequisites
 
